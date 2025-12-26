@@ -1,4 +1,4 @@
-# Musical-Java-1.0
+# Musical-Java
 
 Purpose: Allow users to play pre-coded songs in any instrument they select
 Challenges: Incorporating dynamics (soft & loud volume) into the song and formatting the music into code, since mistakes are hard to find
