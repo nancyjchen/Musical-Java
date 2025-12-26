@@ -4,15 +4,15 @@ Purpose: Allow users to play pre-coded songs in any instrument they select <br /
 Challenges: Incorporating dynamics (soft & loud volume) into the song and formatting the music into code, since mistakes are hard to find <br /> 
 Overall: Combining my computer science and music knowledge, I had fun making this project. :) <br /> 
 
-**Recommended IDE**: IntelliJ
-For other IDEs, make sure to include the files from the /lib/ and /src/ folders as well as the image files. 
+**Recommended IDE**: IntelliJ <br /> 
+For other IDEs, make sure to include the files from the /lib/ and /src/ folders as well as the image files.  <br /> 
 
 **Date Created**: October 15, 2023
 
 -----
 
-The songs can be found on MuseScore. Those songs (a) aren't under a license, (b) had a copyright waiver, and/or (c) are in the public domain.
-**Included Songs**: Jingle Bells, Twinkle Twinkle Little Stars, 'Life Will Change' From Persona 5, & 'It's Ladybug' from Miraculous Ladybug.   
+The songs can be found on MuseScore. Those songs (a) aren't under a license, (b) had a copyright waiver, and/or (c) are in the public domain. <br /> 
+**Included Songs**: Jingle Bells, Twinkle Twinkle Little Stars, 'Life Will Change' From Persona 5, & 'It's Ladybug' from Miraculous Ladybug.  
 
 ----
 
